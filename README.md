@@ -12,6 +12,9 @@ Een programma die controleerd wat de gemidelde cijfer is
 Opdracht 3 – List
 gaat door een boodschappen list en kijkt op of er een al van geweest is
 
+opdracht 4 
+voor deze opdracht monst een speler monsers aanvalen met de hulp van loops
+
 deze eindopdracht woord gemaakt door: 
 Joost Bosgoed en Joris van den Mispel 
 
